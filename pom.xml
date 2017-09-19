@@ -14,7 +14,7 @@
 
     <properties>
         <!-- Convenience property to set the GWTEntryPoint version -->
-        <gwtVersion>2.8.1</gwtVersion>
+        <gwtVersion>2.8.0</gwtVersion>
         <!-- GWTEntryPoint needs at least java 1.5 -->
         <webappDirectory>${project.build.directory}/${project.build.finalName}</webappDirectory>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
